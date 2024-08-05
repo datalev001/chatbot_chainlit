@@ -1,0 +1,10 @@
+chainlit
+langchain
+boto3
+langchain_experimental
+langchain_openai
+langchain_community
+langchain_chroma 
+flask
+psycopg2
+SQLAlchemy
